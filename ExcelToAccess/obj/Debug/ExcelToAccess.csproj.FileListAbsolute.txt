@@ -1,0 +1,9 @@
+c:\users\imo-support\documents\visual studio 2015\Projects\ExcelToAccess\ExcelToAccess\bin\Debug\ExcelToAccess.exe.config
+c:\users\imo-support\documents\visual studio 2015\Projects\ExcelToAccess\ExcelToAccess\bin\Debug\ExcelToAccess.exe
+c:\users\imo-support\documents\visual studio 2015\Projects\ExcelToAccess\ExcelToAccess\bin\Debug\ExcelToAccess.pdb
+c:\users\imo-support\documents\visual studio 2015\Projects\ExcelToAccess\ExcelToAccess\obj\Debug\ExcelToAccess.csprojResolveAssemblyReference.cache
+c:\users\imo-support\documents\visual studio 2015\Projects\ExcelToAccess\ExcelToAccess\obj\Debug\ExcelToAccess.Properties.Resources.resources
+c:\users\imo-support\documents\visual studio 2015\Projects\ExcelToAccess\ExcelToAccess\obj\Debug\ExcelToAccess.csproj.GenerateResource.Cache
+c:\users\imo-support\documents\visual studio 2015\Projects\ExcelToAccess\ExcelToAccess\obj\Debug\ExcelToAccess.exe
+c:\users\imo-support\documents\visual studio 2015\Projects\ExcelToAccess\ExcelToAccess\obj\Debug\ExcelToAccess.pdb
+c:\users\imo-support\documents\visual studio 2015\Projects\ExcelToAccess\ExcelToAccess\obj\Debug\ExcelToAccess.Form1.resources
